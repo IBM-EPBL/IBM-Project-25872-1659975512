@@ -2,6 +2,8 @@
 
 # Nalaiya Thiran Project Submission
 
+# Title : A Novel Method for Handwritten Digit Recognition System
+
 ## Team ID : PNT2022TMID15689
 
 ### Team Lead : Gowthamen Raj R
