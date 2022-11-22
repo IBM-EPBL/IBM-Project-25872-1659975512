@@ -27,11 +27,11 @@ Because everyone in the world has a unique writing style, handwriting identifica
 
 
 ### Home Page
-![Demo Front page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/WhatsApp%20Image%202022-11-17%20at%2012.08.56%20PM.jpeg)
+![Demo Front page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/Home Page.jpeg)
 
 
 ### Prediction Page
-![Result Page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/WhatsApp%20Image%202022-11-17%20at%2012.11.47%20PM.jpeg)
+![Result Page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/Output.jpeg)
 
 
 # Tasks Completed
