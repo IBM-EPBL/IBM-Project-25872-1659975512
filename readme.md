@@ -27,7 +27,7 @@ Because everyone in the world has a unique writing style, handwriting identifica
 
 
 ### Home Page
-![Demo Front page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/Home Page.jpeg)
+![Demo Front page](https://github.com/IBM-EPBL/IBM-Project-25872-1659975512/blob/main/Final%20Deliverables/Static/images/HomePage.jpeg)
 
 
 ### Prediction Page
